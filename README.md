@@ -1,4 +1,4 @@
-# 📘 README — Convert Decimal Number to Binary (Python)
+## 📘 README — Convert Decimal Number to Binary (Python)
 
 ## 📌 Description
 
