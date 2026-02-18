@@ -2,7 +2,6 @@
 
 ## 📌 Description
 
-
 This Python program converts a **decimal number** into its **binary format** using a built-in Python function.
 In this example, the number **10** is converted into binary.
 
