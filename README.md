@@ -115,4 +115,6 @@ Binary conversion is used in:
 👉 `bin()` = “Binary Convert Function”
 
 ---
+
+
 <img width="506" height="746" alt="image" src="https://github.com/user-attachments/assets/e32fdb65-d5b2-4865-ba48-0aa3fa95cb54" />
